@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monthly-global-land-surface-temp/static/css/main.5251fa1c.css",
+    "main.js": "/monthly-global-land-surface-temp/static/js/main.9262e994.js",
+    "static/js/453.540765a0.chunk.js": "/monthly-global-land-surface-temp/static/js/453.540765a0.chunk.js",
+    "index.html": "/monthly-global-land-surface-temp/index.html",
+    "main.5251fa1c.css.map": "/monthly-global-land-surface-temp/static/css/main.5251fa1c.css.map",
+    "main.9262e994.js.map": "/monthly-global-land-surface-temp/static/js/main.9262e994.js.map",
+    "453.540765a0.chunk.js.map": "/monthly-global-land-surface-temp/static/js/453.540765a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5251fa1c.css",
+    "static/js/main.9262e994.js"
+  ]
+}
